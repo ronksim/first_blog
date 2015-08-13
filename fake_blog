@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<meta name="description" content="This is Ron Sim's first fake blog made for Coding Dojo">
+<h1>My First Fake Blog</h1>
+<body>This is Awesome</body>
+</html>
+<html>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursusvelit lectus, ut congue ligula molestie nec. Fusce a facilisis risus. Nullamid magna semper, semper eros quis, varius velit. Duis sagittis porta enim acmattis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sodales lorem id orci blandit, ac tincidunt lorem pota. Sed euismod a arcu sed mollis.</p>
+ 	<p1>Maecenas imperdiet risus at nisl aliquet, eu ullamcorper enim imperdiet. Sedid metus consectetur, sollicitudin eros at, dapibus ipsum. Morbi cursus nibhsit amet porta fringilla. Nam egestas nisi dui, a varius lectus egestas non.Nulla facilisi. Donec sed mauris vitae sem volutpat auctor nec eu nisi. Maecnas quis diam consequat, semper felis ullamcorper, mollis nisi. Morbi turpis nulla, pellentesque sit amet erat eu, pretium sagittis mi. Fusce rhoncus imperdiet eros, ac porta ligula ullamcorper in. Suspendisse nulla urna, facilisis non nunc ut, faucibus condimentum leo.</p1>
+</html>
+<html>
+<h3>Sponsored By</h3>
+<img data-src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvzsnv03GmQrYnOKYgcA39DZ9g3oQCDcPE9iYNnNfz3MB2GSlP-g" data-sz="f" name="pQ6aBgxdzi38eM:" class="rg_i" alt="Image result for coding dojo" jsaction="load:str.tbn" onload="google.aft&&google.aft(this)" style="width: 159px; height: 159px; margin-left: 0px; margin-right: 0px; margin-top: -1px;" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvzsnv03GmQrYnOKYgcA39DZ9g3oQCDcPE9iYNnNfz3MB2GSlP-g">
+</html>
+<ul>
+    <li>
+        <a href="home.html">Home</a>
+    </li>
+    <li>
+        <a href="contact_me.html">Contact Me</a>
+    </li>
+</ul>
+<html>
+		<h4>Your Voice Matters</h4>
+		<p2>Did This Fake Blog Help You?</p2>
+	<select name="Please select">
+    <option value="Yes">Yes</option>
+    <option value="No">No</option>
+    <option value="Maybe">Maybe</option>
+	</select>
+</html>
+	<html>
+	<h4>How Can We Improve?</h4>
+	<textarea name="Discription"></textarea>
+	<h4>What Did You Take Away from this?</h4>
+	<textarea name="Discription"></textarea>
+</html>
+<html>
+		<h4>Your Contact Infomation</h4>
+</html>
+<label>
+    First Name:<input type="text" name="first_name">
+</label>
+<label>
+    Last Name:<input type="text" name="last_name">
+</label>
+<label>
+    Email:<input type="text" name="email">
+</label>
+<label>
+    Phone:<input type="text" name="phone">
+</label>
+<html>
+<h4>Is This Blog Cool?</h4>
+<label>
+    <input type="radio" name="coolness" value="Cool"> Cool
+</label>
+<label>
+    <input type="radio" name="Coolness" value="Not Cool"> Not Cool
+</label>
+</html>
+<html>
+		<h4>Will You Visit This Site Again?</h4>
+<label>
+    <input type="checkbox" name="Answer" value="Always">Always
+<label>
+    <input type="checkbox" name="Answer" value="Never">Never
+<label>
+    <input type="checkbox" name="Answer" value="Maybe">Maybe
+</label>
+<label>
+    <input type="checkbox" name="Answer" value="I dont Know">I Dont Know
+</label>
+<label>
+    <input type="checkbox" name="Answer" value="In Your Dreams">In Your Dreams
+
+<div>
+ <input type="submit" value="All Done">
+</div>
